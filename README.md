@@ -4,4 +4,4 @@
 
 - 然后编辑 /etc/rc.local 
 
-- 详细设置 点击[这里](https://greatislee.github.io/2018/01/02/Linux-%E8%BF%9B%E7%A8%8B%E5%AE%88%E6%8A%A4%E8%80%85%E8%84%9A%E6%9C%AC/)
+- 详细设置 点击[这里](https://greatislee.github.io/2017/09/22/%E6%95%99%E4%BD%A0%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E9%AB%98%E6%95%88%E7%9A%84shadowsocks-libev/)
